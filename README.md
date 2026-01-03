@@ -4,70 +4,83 @@
 
 
 
-## How can I edit this code?
+💸 Expense Tracker
 
-There are several ways of editing your application.
+A minimal and intuitive expense tracker that helps users manage their finances by tracking income and expenses, calculating totals, and visualizing their balance. Built to demonstrate real-world logic, data handling, and responsive UI design.
 
-**Use Lovable**
+🚀 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+➕ Add income and expenses with category, description, and amount
 
-Changes made via Lovable will be committed automatically to this repo.
+💰 View total income, total expenses, and current balance
 
-**Use your preferred IDE**
+🔍 Filter expenses by category
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+💾 Persist data using local storage
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+📱 Fully responsive dashboard layout
 
-Follow these steps:
+🎨 Clean and minimal UI with clear typography
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🧠 What I Learned
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Designing structured data objects for income and expenses
 
-# Step 3: Install the necessary dependencies.
-npm i
+Calculating totals and balances dynamically
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Filtering and displaying data in real-time
 
-**Edit a file directly in GitHub**
+Creating a user-friendly dashboard
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Handling local storage for data persistence
 
-**Use GitHub Codespaces**
+🛠️ Built With
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Lovable.dev
 
-## What technologies are used for this project?
+JavaScript
 
-This project is built with:
+HTML & CSS
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📸 Screenshots
 
-## How can I deploy this project?
+Add screenshots or GIFs here showing:
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Dashboard layout
 
-## Can I connect a custom domain to my Lovable project?
+Adding income/expense
 
-Yes, you can!
+Filter functionality
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🔗 Live Demo
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+👉 Add your deployed app link here
+
+📂 How It Works
+
+Users add income or expense with category, description, and amount.
+
+Totals are calculated automatically to show current balance.
+
+Expenses can be filtered by category to better visualize spending.
+
+All data persists in local storage, so information remains on refresh.
+
+🌱 Future Improvements
+
+Graphs for income vs expenses (charts)
+
+Monthly summaries and reports
+
+Export/Import data functionality
+
+Backend integration for multi-device syncing
+
+👨‍💻 Author
+
+Moses Orji
+Vibe Coder | Building modern web apps with AI-assisted tools
+
+LinkedIn: https://ng.linkedin.com/in/moses-orji-5553a8a9
+
+GitHub: https://github.com/modesignedit
