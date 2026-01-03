@@ -47,6 +47,17 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Finance-specific semantic colors
+        income: {
+          DEFAULT: "hsl(var(--income))",
+          foreground: "hsl(var(--income-foreground))",
+          muted: "hsl(var(--income-muted))",
+        },
+        expense: {
+          DEFAULT: "hsl(var(--expense))",
+          foreground: "hsl(var(--expense-foreground))",
+          muted: "hsl(var(--expense-muted))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
